@@ -5,7 +5,7 @@ TF NLP Sample
 Hello everyone
 This is a little demo on how to train an NLP functioning model.
 
-After cloning and be special aware of the version of the packages needed to install (check requirement file),
+After cloning and taking special care of the version of packages needed to install (check requirement file),
 here is a list of step on how to use it.
 
 First:
